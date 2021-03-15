@@ -56,7 +56,7 @@ description: 这里是所有功能的总览。
 
 * [禁言抽奖（](qi-ta-lei/jin-yan-chou-jiang.md)
 * [骂我（](qi-ta-lei/ma-wo.md)
-* 每日新闻推送
+* [每日新闻推送](qi-ta-lei/mei-ri-xin-wen-tui-song.md)
 * [消息撤回吐槽](qi-ta-lei/xiao-xi-che-hui-tu-cao.md)
 * [复读机](qi-ta-lei/fu-du-ji.md)
 * [内容审核和撤回](qi-ta-lei/nei-rong-shen-he-he-che-hui.md)
