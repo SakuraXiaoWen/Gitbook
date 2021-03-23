@@ -52,6 +52,7 @@ description: 这里是所有功能的总览。
 * [图片动漫识别](xiao-gong-ju/tu-pian-dong-man-shi-bie.md)
 * [每日早与晚安](xiao-gong-ju/mei-ri-zao-yu-wan-an/)
 * [一些附加功能](xiao-gong-ju/yi-xie-fu-jia-gong-neng.md)
+* [接头（Mirai）](xiao-gong-ju/jie-tou-mirai.md)
 
 ### 其他类
 
