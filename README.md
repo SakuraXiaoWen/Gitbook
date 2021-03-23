@@ -12,7 +12,7 @@ Powered by [小栗子框架](www.xiaolz.cn)（Android Phone）  And   [Mirai](ht
 
 ![BOTQ&#x53F7;&#xFF1A;979871932](.gitbook/assets/img_20210307_161321.jpg)
 
-在添加上面的QQ好友后，拉入群即可使用。
+（在添加上面的QQ好友后，拉入群即可使用。）
 
-（注：Mirai中的插件可能会因为不稳定可能会在未来移除。）
+（注：括号中有标注的即为Mirai插件，其他均为小栗子插件。）
 
