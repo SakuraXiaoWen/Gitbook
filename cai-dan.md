@@ -23,6 +23,7 @@ description: 这里是所有功能的总览。
 * [随机图片](tu-pian-lei/sui-ji-tu-pian.md)
 * [买家秀](tu-pian-lei/mai-jia-xiu.md)
 * [制图](tu-pian-lei/zhi-tu.md)
+* [制图（Mirai）](tu-pian-lei/zhi-tu-mirai.md)
 
 ### 歌曲类
 
