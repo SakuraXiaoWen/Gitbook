@@ -54,6 +54,7 @@
   * [早安喵](xiao-gong-ju/mei-ri-zao-yu-wan-an/zao-an-miao.md)
   * [点赞](xiao-gong-ju/mei-ri-zao-yu-wan-an/dian-zan.md)
   * [收礼物](xiao-gong-ju/mei-ri-zao-yu-wan-an/shou-li-wu.md)
+* [秀图](xiao-gong-ju/xiu-tu.md)
 * [一些附加功能](xiao-gong-ju/yi-xie-fu-jia-gong-neng.md)
 * [接头（Mirai）](xiao-gong-ju/jie-tou-mirai.md)
 
