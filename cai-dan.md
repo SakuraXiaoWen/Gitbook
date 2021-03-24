@@ -54,6 +54,7 @@ description: 这里是所有功能的总览。
 * [秀图](xiao-gong-ju/xiu-tu.md)
 * [一些附加功能](xiao-gong-ju/yi-xie-fu-jia-gong-neng.md)
 * [接头（Mirai）](xiao-gong-ju/jie-tou-mirai.md)
+* [群词云（Mirai）](xiao-gong-ju/qun-ci-yun-mirai.md)
 
 ### 其他类
 
