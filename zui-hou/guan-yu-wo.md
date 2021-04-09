@@ -4,7 +4,7 @@
 
 sakuraxiaowen@gmail.com
 
-这是我的主页：[www.sakurawen.cn](www.sakurawen.cn)
+这是我的主页：[www.sakurawen.cn](http://www.sakurawen.cn)
 
 这是我的博客：[blog.sakurawen.cn](http://blog.sakurawen.cn)
 
