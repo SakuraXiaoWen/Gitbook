@@ -2,6 +2,7 @@
 
 * [开始](README.md)
 * [菜单及功能](cai-dan.md)
+* [Bilibili-菜单](bilibili-1.md)
 
 ## Bilibili
 
