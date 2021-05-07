@@ -2,7 +2,7 @@
 
 如果在使用中遇到了什么问题，可以给我发邮件，会在一天之内给您回复。
 
-xiaowen@sakurawen.cn
+xiaowen@elaina.icu
 
 这是我的主页：[www.sakurawen.cn](http://www.sakurawen.cn)
 
