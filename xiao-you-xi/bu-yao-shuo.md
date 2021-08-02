@@ -22,3 +22,9 @@ description: 不要说挑战。
 
 ![](../.gitbook/assets/img_20210802_224357.jpg)
 
+#### 加入游戏
+
+#### 开始游戏
+
+![](../.gitbook/assets/img_20210802_225507.jpg)
+
