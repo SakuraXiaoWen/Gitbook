@@ -36,6 +36,7 @@
 * [五子棋](xiao-you-xi/untitled.md)
 * [象棋](xiao-you-xi/xiang-qi.md)
 * [不要说](xiao-you-xi/bu-yao-shuo.md)
+* [斗地主](xiao-you-xi/dou-di-zhu.md)
 
 ## 小工具
 
