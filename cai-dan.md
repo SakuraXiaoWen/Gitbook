@@ -37,6 +37,7 @@ description: 这里是所有功能的总览。
 * [推箱子](xiao-you-xi/tui-xiang-zi.md)
 * [五子棋](xiao-you-xi/untitled.md)
 * [象棋](xiao-you-xi/xiang-qi.md)
+* 不要说
 
 ### 小工具
 

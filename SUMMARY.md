@@ -36,6 +36,7 @@
 * [推箱子](xiao-you-xi/tui-xiang-zi.md)
 * [五子棋](xiao-you-xi/untitled.md)
 * [象棋](xiao-you-xi/xiang-qi.md)
+* [不要说](xiao-you-xi/bu-yao-shuo.md)
 
 ## 小工具
 
