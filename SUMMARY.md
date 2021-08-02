@@ -2,6 +2,7 @@
 
 * [开始](README.md)
 * [菜单及功能](cai-dan.md)
+* [功能更新日志](gong-neng-geng-xin-ri-zhi.md)
 
 ## Bilibili
 
