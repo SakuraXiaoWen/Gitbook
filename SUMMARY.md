@@ -41,8 +41,8 @@
 
 ## 小工具
 
-* [一言 \* 报时](xiao-gong-ju/yi-yan-bao-shi.md)
 * [方舟模拟抽卡](xiao-gong-ju/fang-zhou-mo-ni-chou-ka.md)
+* [一言 \* 报时](xiao-gong-ju/yi-yan-bao-shi.md)
 * [梗百科](xiao-gong-ju/geng-bai-ke.md)
 * [入群时间查询](xiao-gong-ju/ru-qun-shi-jian-cha-xun.md)
 * [翻译](xiao-gong-ju/fan-yi.md)
