@@ -6,7 +6,7 @@ description: 记录更新的功能。
 
 ### 2021-08-10
 
-* 增加小工具   [方舟模拟抽卡](xiao-gong-ju/fang-zhou-mo-ni-chou-ka.md)。
+* 增加小工具   [方舟模拟抽卡](xiao-gong-ju/fang-zhou-mo-ni-chou-ka.md)
 
 ### 2021-08-09
 
