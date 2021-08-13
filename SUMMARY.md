@@ -53,7 +53,7 @@
 * [求签](xiao-gong-ju/qiu-qian.md)
 * [文字转语音](xiao-gong-ju/wen-zi-zhuan-yu-yin.md)
 * [搜番（暂时弃用）](xiao-gong-ju/sou-fan.md)
-* [图片动漫识别](xiao-gong-ju/tu-pian-dong-man-shi-bie.md)
+* [图片动漫识别（暂时弃用）](xiao-gong-ju/tu-pian-dong-man-shi-bie.md)
 * [每日早与晚安](xiao-gong-ju/mei-ri-zao-yu-wan-an/README.md)
   * [早安喵](xiao-gong-ju/mei-ri-zao-yu-wan-an/zao-an-miao.md)
   * [点赞](xiao-gong-ju/mei-ri-zao-yu-wan-an/dian-zan.md)
