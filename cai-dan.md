@@ -8,7 +8,7 @@ description: 这里是所有功能的总览。
 
 ### **这次啊，是真的永封了哦。**
 
-![](.gitbook/assets/screenshot_2021-08-16-17-50-38-357_com.tencent.mo.jpg)
+![](.gitbook/assets/screenshot_2021-09-17-01-32-40-635_com.tencent.mo.jpg)
 
 ## 写在最前面：如果@Bot发一些脏话，骂人不好等话语，达到一定数量（数量是随机的），会自动判定为黑名单，并触发退群。
 
