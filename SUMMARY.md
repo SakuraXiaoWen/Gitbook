@@ -19,6 +19,11 @@
 * [以图搜图](tu-pian-lei/page-2.md)
 * [买家秀](tu-pian-lei/mai-jia-xiu.md)
 
+## 歌曲类
+
+* [网易多选点歌](ge-qu-lei/wang-yi-duo-xuan-dian-ge.md)
+* [多平台点歌](ge-qu-lei/duo-ping-tai-dian-ge.md)
+
 ## 工具类
 
 * [查成分](gong-ju-lei/cha-cheng-fen.md)
