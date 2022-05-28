@@ -2,7 +2,7 @@
 description: 该插件来自：nonebot-plugin-petpet
 ---
 
-# 表情包
+# 表情包（头像）
 
 ### 插件全部命令
 

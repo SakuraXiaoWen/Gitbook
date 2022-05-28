@@ -13,6 +13,8 @@
 
 ## 图片类
 
-* [表情包（头像）](tu-pian-lei/biao-qing-bao-tou-xiang.md)
+* [表情包（头像）](<tu-pian-lei/biao-qing-bao (1).md>)
+* [表情包](tu-pian-lei/biao-qing-bao.md)
 * [LOGO生成](tu-pian-lei/logo-sheng-cheng.md)
-* [以图搜图](tu-pian-lei/yi-tu-sou-tu.md)
+* [以图搜图](tu-pian-lei/page-2.md)
+* [买家秀](tu-pian-lei/mai-jia-xiu.md)
