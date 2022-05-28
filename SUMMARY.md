@@ -14,3 +14,5 @@
 ## 图片类
 
 * [表情包](tu-pian-lei/biao-qing-bao.md)
+* [LOGO生成](tu-pian-lei/logo-sheng-cheng.md)
+* [Page 2](tu-pian-lei/page-2.md)
