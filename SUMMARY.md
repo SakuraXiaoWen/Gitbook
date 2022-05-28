@@ -18,3 +18,7 @@
 * [LOGO生成](tu-pian-lei/logo-sheng-cheng.md)
 * [以图搜图](tu-pian-lei/page-2.md)
 * [买家秀](tu-pian-lei/mai-jia-xiu.md)
+
+## 工具类
+
+* [查成分](gong-ju-lei/cha-cheng-fen.md)
