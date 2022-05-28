@@ -27,3 +27,4 @@
 * [疯狂星期四](gong-ju-lei/feng-kuang-xing-qi-si.md)
 * [EpicGameStore喜加一](gong-ju-lei/epicgamestore-xi-jia-yi.md)
 * [一言](gong-ju-lei/yi-yan.md)
+* [崩坏3查询](gong-ju-lei/beng-huai-3-cha-xun.md)
