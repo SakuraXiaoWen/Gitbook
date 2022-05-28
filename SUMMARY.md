@@ -33,3 +33,8 @@
 * [EpicGameStore喜加一](gong-ju-lei/epicgamestore-xi-jia-yi.md)
 * [一言](gong-ju-lei/yi-yan.md)
 * [崩坏3查询](gong-ju-lei/beng-huai-3-cha-xun.md)
+* [今天吃什么](gong-ju-lei/jin-tian-chi-shi-mo.md)
+
+## 定时类
+
+* [原神/崩坏定时签到](ding-shi-lei/yuan-shen-beng-huai-ding-shi-qian-dao.md)
