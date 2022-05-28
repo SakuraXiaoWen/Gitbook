@@ -13,6 +13,6 @@
 
 ## 图片类
 
-* [表情包](tu-pian-lei/biao-qing-bao.md)
+* [表情包（头像）](tu-pian-lei/biao-qing-bao-tou-xiang.md)
 * [LOGO生成](tu-pian-lei/logo-sheng-cheng.md)
-* [Page 2](tu-pian-lei/page-2.md)
+* [以图搜图](tu-pian-lei/yi-tu-sou-tu.md)

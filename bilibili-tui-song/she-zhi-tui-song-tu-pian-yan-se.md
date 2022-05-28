@@ -4,7 +4,7 @@ description: 在这里可以设置推送的图片颜色，让其看起来与众�
 
 # 设置推送图片颜色
 
-/bili \<color / 颜色> \<uid> <16进制颜色>
+#### /bili \<color / 颜色> \<uid> <16进制颜色>
 
 * 例：
 * /bili color 27534330 #FFB9DE
