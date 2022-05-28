@@ -29,6 +29,7 @@ description: 该插件来自：nonebot-plugin-logo
 
 #### douyin/dylogo <文本>
 
+* 例：
 * douyin elysia
 * dylogo elysia
 

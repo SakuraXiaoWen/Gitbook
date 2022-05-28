@@ -4,6 +4,10 @@ description: 欢迎使用此BOT，这里将向您介绍该BOT的组成和如何�
 
 # 开始
 
+![](.gitbook/assets/Screenshot\_2022-05-28-20-32-18-710-edit\_com.tence.jpg)
+
+在添加上面的QQ好友后，拉入群即可使用。
+
 Powered by   Mirai（Android Watch） And   Go-cqhttp（iPad） With Nonebot2
 
 #### Mirai：
