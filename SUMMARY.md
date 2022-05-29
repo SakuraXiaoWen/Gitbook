@@ -38,3 +38,7 @@
 ## 定时类
 
 * [原神/崩坏定时签到](ding-shi-lei/yuan-shen-beng-huai-ding-shi-qian-dao.md)
+
+## 教程
+
+* [米游社cookie获取](jiao-cheng/mi-you-she-cookie-huo-qu.md)
