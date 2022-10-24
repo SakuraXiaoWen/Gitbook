@@ -28,7 +28,7 @@
 
 * [查成分](gong-ju-lei/cha-cheng-fen.md)
 * [抽象化](gong-ju-lei/chou-xiang-hua.md)
-* [枝网小作文查重（已失效）](gong-ju-lei/zhi-wang-xiao-zuo-wen-cha-zhong-yi-shi-xiao.md)
+* [枝网小作文查重（已失效）](gong-ju-lei/zhi-wang-xiao-zuo-wen-cha-zhong.md)
 * [疯狂星期四](gong-ju-lei/feng-kuang-xing-qi-si.md)
 * [EpicGameStore喜加一](gong-ju-lei/epicgamestore-xi-jia-yi.md)
 * [一言](gong-ju-lei/yi-yan.md)
@@ -38,7 +38,7 @@
 
 ## 定时类
 
-* [原神/崩坏定时签到（失效）](ding-shi-lei/yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md)
+* [原神/崩坏定时签到（失效）](ding-shi-lei/yuan-shen-beng-huai-ding-shi-qian-dao.md)
 
 ## 教程
 

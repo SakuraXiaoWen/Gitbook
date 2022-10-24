@@ -8,14 +8,14 @@ description: 该插件来自：Mirai：GenshinSign
 
 ### 目录：
 
-* [原神签到（开启原神签到）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#undefined)
-* [崩坏签到（开启崩坏3签到）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#beng-huai-qian-dao-bu-zhou)
-* [添加米游社账号（添加米游社账号）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#tian-jia-mi-you-she-zhang-hao-bu-zhou-yong-yu-bang-ding-duo-ge-zhang-hao)
-* [账号列表（账号列表）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#zhang-hao-lie-biao)
-* [删除账号（删除一个账号）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#shan-chu-zhang-hao)
-* [临时签到（临时执行签到）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#lin-shi-qian-dao)
-* [开启/关闭消息推送（开启/关闭签到成功消息推送）](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#kai-qi-xiao-xi-tui-song)
-* [！一定要看的注意事项](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#yi-ding-yao-kan-de-zhu-yi-shi-xiang)
+* [原神签到（开启原神签到）](yuan-shen-beng-huai-ding-shi-qian-dao.md#undefined)
+* [崩坏签到（开启崩坏3签到）](yuan-shen-beng-huai-ding-shi-qian-dao.md#beng-huai-qian-dao-bu-zhou)
+* [添加米游社账号（添加米游社账号）](yuan-shen-beng-huai-ding-shi-qian-dao.md#tian-jia-mi-you-she-zhang-hao-bu-zhou-yong-yu-bang-ding-duo-ge-zhang-hao)
+* [账号列表（账号列表）](yuan-shen-beng-huai-ding-shi-qian-dao.md#zhang-hao-lie-biao)
+* [删除账号（删除一个账号）](yuan-shen-beng-huai-ding-shi-qian-dao.md#shan-chu-zhang-hao)
+* [临时签到（临时执行签到）](yuan-shen-beng-huai-ding-shi-qian-dao.md#lin-shi-qian-dao)
+* [开启/关闭消息推送（开启/关闭签到成功消息推送）](yuan-shen-beng-huai-ding-shi-qian-dao.md#kai-qi-xiao-xi-tui-song)
+* [！一定要看的注意事项](yuan-shen-beng-huai-ding-shi-qian-dao.md#yi-ding-yao-kan-de-zhu-yi-shi-xiang)
 
 #### 原神签到：步骤
 
@@ -33,7 +33,7 @@ description: 该插件来自：Mirai：GenshinSign
 #### 添加米游社账号：步骤（用于绑定多个账号）
 
 1. 私聊Bot发送`添加米游社账号`
-2. 阅读[原神签到处](yuan-shen-beng-huai-ding-shi-qian-dao-shi-xiao.md#yuan-shen-qian-dao-bu-zhou)第3步往下
+2. 阅读[原神签到处](yuan-shen-beng-huai-ding-shi-qian-dao.md#yuan-shen-qian-dao-bu-zhou)第3步往下
 
 #### 账号列表
 
