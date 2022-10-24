@@ -2,7 +2,7 @@
 description: 该插件来自：nonebot-plugin-asoulcnki
 ---
 
-# 枝网小作文查重（已失效）
+# 枝网小作文查重
 
 #### 查重/枝网查重 <要查重的小作文>
 

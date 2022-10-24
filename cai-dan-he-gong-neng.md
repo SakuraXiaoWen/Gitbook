@@ -8,6 +8,8 @@ coverY: 320.47648261758695
 
 ### Bilibili推送
 
+推送这块就是订阅B站UP推送后，更新视频和动态都会往群里发。
+
 * [添加订阅推送](bilibili-tui-song/tian-jia-ding-yue-tui-song.md)
 * [删除订阅推送](bilibili-tui-song/shan-chu-ding-yue-tui-song.md)
 * [设置订阅内容](bilibili-tui-song/she-zhi-ding-yue-nei-rong.md)
